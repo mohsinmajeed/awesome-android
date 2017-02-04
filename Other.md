@@ -433,7 +433,12 @@
 [https://github.com/selendroid/selendroid](https://github.com/selendroid/selendroid)
 1. **Cafe** A powerful test framework for Android named Case Automated Framework for Everyone.    
 [https://github.com/BaiduQA/Cafe](https://github.com/BaiduQA/Cafe)
-1. **android-junit-report** A custom instrumentation test runner for Android that generates XML reports for integration with other tools.    
+1. **android-junit-report** A custom instrumentation test runner for Android that generates XML reports for integration with other tools.    http://msmartmobi.blogspot.com/
+http://msmartmobi.blogspot.com/2017/02/top-5-new-tech-gadgets-of-2017.html
+http://msmartmobi.blogspot.com/2017/02/oculus-defeated-in-court-rift-dead.html
+http://msmartmobi.blogspot.com/2017/02/dell-inspiron-13-7378-review.html
+http://msmartmobi.blogspot.com/2017/02/samsung-galaxy-a7-2017-unboxing-first.html
+http://msmartmobi.blogspot.com/2017/02/canon-eos-1dx-mark-ii-hands-on-review.html
 [https://github.com/jsankey/android-junit-report](https://github.com/jsankey/android-junit-report)
 1. **robolectric**  Android Unit Testing Framework    
 [https://github.com/xtremelabs/robolectric](https://github.com/xtremelabs/robolectric)
